@@ -1,4 +1,4 @@
-# TodoMVC-with-playwright-e2e-tests
+# TodoMVC/API-Mock-Apps-with-playwright-e2e-tests
 
 These tests target the following apps under the https://playwright.dev/ domain.
 
